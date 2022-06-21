@@ -1,0 +1,6 @@
+django
+djangorestframework
+httpx==0.21.1
+pymysql
+django-cors-headers
+tencentcloud-sdk-python
